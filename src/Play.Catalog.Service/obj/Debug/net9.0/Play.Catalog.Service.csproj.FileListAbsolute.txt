@@ -32,4 +32,4 @@ C:\Users\Sandeep Pradhan\Documents\practice_space\JulioCasalYTMicroservicesDotne
 C:\Users\Sandeep Pradhan\Documents\practice_space\JulioCasalYTMicroservicesDotnet\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net9.0\Play.Catalog.Service.genruntimeconfig.cache
 C:\Users\Sandeep Pradhan\Documents\practice_space\JulioCasalYTMicroservicesDotnet\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net9.0\ref\Play.Catalog.Service.dll
 C:\Users\Sandeep Pradhan\Documents\practice_space\JulioCasalYTMicroservicesDotnet\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net9.0\Scalar.AspNetCore.dll
-C:\Users\Sandeep Pradhan\Documents\practice_space\JulioCasalYTMicroservicesDotnet\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+c:\Users\Sandeep Pradhan\Documents\practice_space\JulioCasalYTMicroservicesDotnet\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net9.0\Play.Catalog.Service.sourcelink.json
